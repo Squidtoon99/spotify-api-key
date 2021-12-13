@@ -1,0 +1,23 @@
+{
+  "name": "spotify-api-key",
+  "version": "1.0.0",
+  "description": "Constant oauth revalidation of api keys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Squidtoon99/spotify-api-key.git"
+  },
+  "author": "Squidtoon99 <arjun@squid.pink> (https://squid.pink/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Squidtoon99/spotify-api-key/issues"
+  },
+  "homepage": "https://github.com/Squidtoon99/spotify-api-key#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
